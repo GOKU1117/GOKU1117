@@ -1,3 +1,2 @@
 <whoami>
-   - Threat analysis researcher
-   - Digital Forensics researcher
+   Threat analysis researcher | Digital Forensics researcher
